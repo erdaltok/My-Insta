@@ -1,4 +1,4 @@
 git pull
 git add .
-git commit -m "JSDoc include"
+git commit -m "change name of website"
 git push
